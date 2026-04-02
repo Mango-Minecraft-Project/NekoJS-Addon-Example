@@ -1,4 +1,4 @@
-package dev.mangojellypudding.nekojs_addon_example.nekojs;
+package dev.mangojellypudding.nekojs_addon_example;
 
 import com.tkisor.nekojs.api.NekoJSPlugin;
 import com.tkisor.nekojs.api.annotation.RegisterNekoJSPlugin;
